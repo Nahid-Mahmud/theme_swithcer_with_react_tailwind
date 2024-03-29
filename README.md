@@ -14,10 +14,3 @@ This React project demonstrates how to implement a theme switcher using React an
 
 Start the Development Server: Run ``` npm run dev ``` (or ``` yarn dev ```) to launch the development server. Your application will typically be accessible at http://localhost:3000/.
 
-Currently, two official plugins are available:
-
-
-
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
