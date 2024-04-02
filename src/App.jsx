@@ -6,7 +6,6 @@ function App() {
   // getting theme from local storage from utility function
 
   const themeData = getThemeFromLocalStoragae();
-  console.log(themeData);
 
   // creating state for theme
 
